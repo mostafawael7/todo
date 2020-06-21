@@ -13,8 +13,8 @@
 		1A339F20249F985200E44893 /* Add Todo 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F1A249F985100E44893 /* Add Todo 2.png */; };
 		1A339F21249F985200E44893 /* Todo list 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F1B249F985100E44893 /* Todo list 2.png */; };
 		1A339F22249F985200E44893 /* Add Todo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F1C249F985100E44893 /* Add Todo.png */; };
-		1A339F23249F985200E44893 /* Launch Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F1D249F985100E44893 /* Launch Screen.png */; };
-		1A339F24249F985200E44893 /* Todo list.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F1E249F985200E44893 /* Todo list.png */; };
+		1A339F2B249F9AD500E44893 /* Launch Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F29249F9AD400E44893 /* Launch Screen.png */; };
+		1A339F2C249F9AD500E44893 /* Todo list.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A339F2A249F9AD500E44893 /* Todo list.png */; };
 		1A402ECE249E88A800968706 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A402ECD249E88A800968706 /* AppDelegate.swift */; };
 		1A402ED0249E88A800968706 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A402ECF249E88A800968706 /* SceneDelegate.swift */; };
 		1A402ED2249E88A800968706 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A402ED1249E88A800968706 /* ViewController.swift */; };
@@ -32,8 +32,8 @@
 		1A339F1A249F985100E44893 /* Add Todo 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add Todo 2.png"; sourceTree = "<group>"; };
 		1A339F1B249F985100E44893 /* Todo list 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Todo list 2.png"; sourceTree = "<group>"; };
 		1A339F1C249F985100E44893 /* Add Todo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add Todo.png"; sourceTree = "<group>"; };
-		1A339F1D249F985100E44893 /* Launch Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Launch Screen.png"; sourceTree = "<group>"; };
-		1A339F1E249F985200E44893 /* Todo list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Todo list.png"; sourceTree = "<group>"; };
+		1A339F29249F9AD400E44893 /* Launch Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Launch Screen.png"; sourceTree = "<group>"; };
+		1A339F2A249F9AD500E44893 /* Todo list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Todo list.png"; sourceTree = "<group>"; };
 		1A402ECA249E88A800968706 /* todo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = todo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A402ECD249E88A800968706 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A402ECF249E88A800968706 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,12 +60,12 @@
 		1A339F14249F94E200E44893 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				1A339F29249F9AD400E44893 /* Launch Screen.png */,
+				1A339F2A249F9AD500E44893 /* Todo list.png */,
 				1A339F1A249F985100E44893 /* Add Todo 2.png */,
 				1A339F1C249F985100E44893 /* Add Todo.png */,
 				1A339F19249F985100E44893 /* Delete Todo.png */,
-				1A339F1D249F985100E44893 /* Launch Screen.png */,
 				1A339F1B249F985100E44893 /* Todo list 2.png */,
-				1A339F1E249F985200E44893 /* Todo list.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -164,14 +164,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A339F20249F985200E44893 /* Add Todo 2.png in Resources */,
-				1A339F23249F985200E44893 /* Launch Screen.png in Resources */,
-				1A339F24249F985200E44893 /* Todo list.png in Resources */,
 				1A402EDD249E88AA00968706 /* LaunchScreen.storyboard in Resources */,
 				1A402EDA249E88AA00968706 /* Assets.xcassets in Resources */,
 				1A339F22249F985200E44893 /* Add Todo.png in Resources */,
 				1A402ED5249E88A800968706 /* Main.storyboard in Resources */,
 				1A339F21249F985200E44893 /* Todo list 2.png in Resources */,
+				1A339F2C249F9AD500E44893 /* Todo list.png in Resources */,
 				1A339F1F249F985200E44893 /* Delete Todo.png in Resources */,
+				1A339F2B249F9AD500E44893 /* Launch Screen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
