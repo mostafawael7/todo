@@ -20,6 +20,6 @@ This is a simple todo list using core data
 
 ![](https://github.com/mostafawael7/todo/blob/master/todo/Screenshots/Todo%20list%202.png)
 
-3- Deleting a Todo
+5- Deleting a Todo
 
 ![](https://github.com/mostafawael7/todo/blob/master/todo/Screenshots/Delete%20Todo.png)
