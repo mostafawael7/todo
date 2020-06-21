@@ -8,7 +8,7 @@ This is a simple todo list using core data
 
 2- Empty Todo list
 
-![]()
+![](https://github.com/mostafawael7/todo/blob/master/todo/Screenshots/Todo%20list.png)
 
 3- Adding a Todo
 
